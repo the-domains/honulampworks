@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-21T21:17:44.197Z'
-dateModified: '2016-02-21T21:17:05.244Z'
+datePublished: '2016-02-21T21:44:30.935Z'
+dateModified: '2016-02-21T21:41:47.901Z'
 title: Art in Glass
 author: []
 authors: []
