@@ -1,28 +1,40 @@
-name: Honu Lampworks
-favicon: null
-layout_spectrum: 0.32431
-typography_spectrum: 0.26737
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.32431
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.1875
+  rhythmicContrast: 0.6621876140125096
   brandColors:
     - '#ffffe5'
     - '#0e2543'
     - '#3c5778'
     - '#bc7c31'
     - '#c8a76b'
-  brandStrength: 0.1875
-  lightness: 0.48715457902289927
-  saturation: 0.5
-  rhythmicContrast: 0.6621876140125096
+  lightness: 0.4871545790228993
 purpose: []
+favicon: null
+name: Honu Lampworks
+typography_spectrum: 0.26737
