@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Honu Lampworks]]></title>
+        <description><![CDATA[Honu Lampworks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 21:17:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art in Glass]]></title>
+            <description><![CDATA[<article><h1>Art in Glass</h1><p>Lampwork glass artist Rosalyn Kutchins produces wearable art. It's hard to do this. Just ask her. Best to judge by looking over her works here. Enjoy.</p></article>]]></description>
+            <link>undefinedart-in-glass/index.html</link>
+            <guid isPermaLink="false">7935dc45-8fca-42db-a288-e587e20983ee</guid>
+            <pubDate>Sun, 21 Feb 2016 21:17:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
