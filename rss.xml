@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Honu Lampworks]]></title>
         <description><![CDATA[Honu Lampworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/honulampworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 21:17:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 21:38:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/honulampworks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47e10285-0a68-406c-8e75-6f9fb3b8ca8f.jpg">]]></description>
+            <link>https://thegrid.ai/honulampworks/641fc8e5-7394-40f4-9a89-d01ab4c615bd/index.html</link>
+            <guid isPermaLink="false">641fc8e5-7394-40f4-9a89-d01ab4c615bd</guid>
+            <pubDate>Sun, 21 Feb 2016 21:38:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Art in Glass]]></title>
             <description><![CDATA[<article><h1>Art in Glass</h1><p>Lampwork glass artist Rosalyn Kutchins produces wearable art. It's hard to do this. Just ask her. Best to judge by looking over her works here. Enjoy.</p></article>]]></description>
-            <link>undefinedart-in-glass/index.html</link>
+            <link>https://thegrid.ai/honulampworks/art-in-glass/index.html</link>
             <guid isPermaLink="false">7935dc45-8fca-42db-a288-e587e20983ee</guid>
             <pubDate>Sun, 21 Feb 2016 21:17:44 GMT</pubDate>
         </item>
